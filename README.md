@@ -39,4 +39,7 @@ A passionate software engineer with a knack for solving real-world problems. My 
 
 # gigs
 
+[![Clickable Image](https://github.com/gautam132002/gautam132002/assets/68372911/d4fb8d9f-b222-467a-8bc5-3e0b764efe19)](https://www.fiverr.com/gautam__negi/write-python-scripts-for-web-scraping-api-backend-etc-f957)
+
+
 
